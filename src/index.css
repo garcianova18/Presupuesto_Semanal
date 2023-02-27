@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Tilt Neon', cursive;
+    
+
+}
+
+    
+
+body{
+
+    background-image: linear-gradient(to right, #1d1e5e 0%, #356cc4 100%);
+}
